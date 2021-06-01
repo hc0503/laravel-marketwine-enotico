@@ -1,0 +1,24 @@
+---
+Feather
+by Cole Bemis
+
+colebemis.com
+@colebemis
+---
+
+1. Copy the entire *feather-webfont* directory into your project
+
+2. Include *feather.css* in the <head> of your HTML document
+   <link rel="stylsheet" href="path/to/feather.css">
+
+3. Insert the icon's class name into any HTML element
+   <span class="icon-eye"></span>
+
+   Or insert a *data-icon* attribute with the icon's HTML entity into any HTML element
+   <span data-icon="&#xe000"></span>
+
+---
+If you have any issues or suggestions for new icons, let me know:
+info@colebemis.com
+
+Cole.
